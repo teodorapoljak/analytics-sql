@@ -1,2 +1,10 @@
 # analytics-sql
-Simple SQL project based on a fictional product database. Includes table creation, sample data, and analytical queries to identify t
+
+This is a personal SQL project created as part of my transition into data analytics.  
+The database is fictional and built from scratch using SQLite in DBeaver, inspired by a typical company structure with employees, branches, clients, and sales.
+
+The goal of the project was to simulate a small company database and practice analytical SQL queries, with a focus on:
+
+- Understanding organizational structure (employees, supervisors, branches)
+- Exploring employee data (age, salary, managers)
+- Analyzing branch performance and employee distribution
